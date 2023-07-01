@@ -13,6 +13,9 @@ Conv2D, MaxPooling2D, Flatten, Dense de tensorflow.keras.layers: Para agregar ca
 Definición de las rutas de las carpetas de entrenamiento y prueba.
 
 Lectura de imágenes de entrenamiento y sus etiquetas:
+train_folder = 'CarneDataset/train'
+test_folder = 'CarneDataset/test'
+
 
 Se recorren las carpetas de entrenamiento y se leen las imágenes utilizando cv2.imread().
 Se almacenan las imágenes y las etiquetas en listas separadas.
