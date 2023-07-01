@@ -2,6 +2,7 @@
  Test Final Tratamiento de datos
 Importación de bibliotecas:
 
+PRUEBA
 os: Para manipular rutas de archivos y directorios.
 cv2: Para leer y manipular imágenes.
 numpy as np: Para trabajar con matrices y vectores de manera eficiente.
